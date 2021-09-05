@@ -1,9 +1,9 @@
 baseURL = "http://villagehouselearningcenter.netlify.app"
-disableLanguages = []
+disableLanguages = ["It", "Fr", "De"]
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "4"
-summaryLength = "30"
+summaryLength = "50"
 theme = "airspace-hugo"
 timeZone = "UTC"
 title = "Village House | Village House Learning Center"
