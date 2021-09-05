@@ -1,7 +1,7 @@
 ---
-title: About Our Company
-description: this is meta description
-bg_image: images/feature-bg.jpg
+title: Village House Learning Center
+description: ''
+bg_image: images/villagehousefront1.png
 layout: about
 about:
   enable: true
