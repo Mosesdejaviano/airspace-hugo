@@ -61,8 +61,8 @@ home = ["HTML"]
 [params]
 author = ""
 description = "IT TAKES A VILLAGE TO RAISE OUR CHILDREN!"
-image = "images/lvillagecenterlogo.png"
-logo = "images/lvillagecenterlogo.png"
+image = "images/villagecenterlogo.png"
+logo = "images/villagecenterlogo.png"
 logo_width = "110px"
 [params.contact]
 address_descriptors = true
