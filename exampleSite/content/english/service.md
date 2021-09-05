@@ -62,7 +62,7 @@ service:
     content: We rely on COVID-19 guidelines from reputable organizations such as UNICEF
       and WHO, as well as health authorities. We keep up to date on the situation
       and follow the advice of public health specialists.
-  - icon: ion-headphone
+  - icon: ion-ios-americanfootball
     name: Before/After School Programs
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
