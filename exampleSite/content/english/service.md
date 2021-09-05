@@ -63,7 +63,7 @@ service:
       and WHO, as well as health authorities. We keep up to date on the situation
       and follow the advice of public health specialists.
   - icon: ion-headphone
-    name: Logo Design
+    name: Before/After School Programs
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-leaf
