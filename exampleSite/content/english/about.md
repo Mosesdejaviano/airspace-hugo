@@ -1,5 +1,5 @@
 ---
-title: Village House Learning Center
+title: About Our Company
 description: ''
 bg_image: images/villagehousefront1.png
 layout: about
