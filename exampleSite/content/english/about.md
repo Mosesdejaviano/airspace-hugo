@@ -6,34 +6,36 @@ layout: about
 about:
   enable: true
   image: images/company/about.jpg
-  title: We strive to be the best and <br> make awesome work.
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
+  title: IT TAKES A VILLAGE TO RAISE OUR CHILDREN!
+  content: |
+    The activities are spread out around the classroom. Children work in small groups during center time, but they can also work independently.
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
+    Hands-on play experiences allow young children to learn in the most meaningful way possible, which is why they’re such a vital part of a successful preschool classroom.
   button:
-    enable: true
+    enable: false
     label: Download Company Profile
     link: "#"
   funfacts:
   - icon: ion-ios-flask-outline
     name: Completed Projects
-    count: '349'
+    count: "349"
   - icon: ion-ios-flame-outline
     name: Lines Of Code
-    count: '35000'
+    count: "35000"
   - icon: ion-ios-pint-outline
     name: Satisfied Customer
-    count: '70'
+    count: "70"
   - icon: ion-ios-wineglass-outline
     name: Awards Winner
-    count: '10'
+    count: "10"
   - icon: ion-ios-chatboxes-outline
     name: Satisfied Customer
-    count: '75'
+    count: "75"
   - icon: ion-ios-body-outline
     name: Awards Winner
-    count: '20'
+    count: "20"
+  description: We prepare children for success in elementary school and beyond via
+    collaborative learning experiences guided by experienced and motivated instructors.
 features:
   enable: true
   title: We are indepented Design & Development Agency
@@ -102,12 +104,5 @@ mission_vision:
       temporibus eos sequi alias hic nemo.
 cta:
   enable: true
-menu:
-  main:
-    name: About
-    weight: 2
-  footer:
-    name: About
-    weight: 1
 
 ---
