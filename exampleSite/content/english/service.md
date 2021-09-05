@@ -76,10 +76,6 @@ service:
     name: Family engagements events And More!!
     content: Collaboration, cultural competency, and a focus on enhancing children's
       learning characterize high-impact family and community involvement.
-  - icon: ion-earth
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
 cta:
   enable: false
 
