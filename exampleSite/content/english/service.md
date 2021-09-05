@@ -41,7 +41,7 @@ service:
   description: We prepare children for success in elementary school and beyond via
     collaborative learning experiences guided by experienced and motivated instructors.
   service_item:
-  - icon: ion-bus
+  - icon: ion-model-s
     name: 'Transportation Provided   '
     content: 'Transportation is provided for kids. Walking, bicycling, shared rides,
       and bus transit can assist minimize transportation''s environmental effect and,
