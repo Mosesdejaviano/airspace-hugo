@@ -38,9 +38,8 @@ featured_service:
 service:
   enable: true
   title: What We Render
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  description: We prepare children for success in elementary school and beyond via
+    collaborative learning experiences guided by experienced and motivated instructors.
   service_item:
   - icon: ion-coffee
     name: Branding
