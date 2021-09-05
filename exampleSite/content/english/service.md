@@ -46,9 +46,7 @@ service:
     content: ''
   - icon: ion-ios-home
     name: IDHS Child Care Assistance Program(CCAP) Accepted
-    content: We collaborate with the Illinois Department of Human Services (IDHS)
-      Child Care Assistance Program (CCAP), which helps families locate and choose
-      the finest child care for their children by providing information and resources.
+    content: ''
   - icon: ion-ios-monitor-outline
     name: 'Open Enrollment for E-learners '
     content: We make a learning environment for your youngsters. We set a timetable
