@@ -55,9 +55,7 @@ service:
     content: ''
   - icon: ion-ios-americanfootball
     name: Before/After School Programs
-    content: Afterschool programs may help children develop socially, emotionally,
-      cognitively, and academically, as well as minimize hazardous behaviors, enhance
-      physical health, and provide a secure and supportive atmosphere.
+    content: ''
   - icon: ion-fork
     name: Breakfast,Lunch and Snacks included
     content: The school meal is estimated to meet around one-third of a child's daily
