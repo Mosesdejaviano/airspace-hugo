@@ -14,16 +14,13 @@ banner:
 about:
   enable: true
   title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
-  image: images/wrapper-img.png
+  description: We prepare children for success in elementary school and beyond via
+    collaborative learning experiences guided by experienced and motivated instructors.
+  content: |
+    The activities are spread out around the classroom. Children work in small groups during center time, but they can also work independently.
+
+    Hands-on play experiences allow young children to learn in the most meaningful way possible, which is why they’re such a vital part of a successful preschool classroom.
+  image: images/villagehouseback-compressed.jpg
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
