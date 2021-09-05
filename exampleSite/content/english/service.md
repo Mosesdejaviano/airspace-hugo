@@ -72,7 +72,7 @@ service:
     content: The school meal is estimated to meet around one-third of a child's daily
       nutritional requirements. The National Nutrition Council's nutritional standards
       for schools are followed by school catering.
-  - icon: ion-planet
+  - icon: ion-ios-people
     name: Family engagements events And More!!
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
