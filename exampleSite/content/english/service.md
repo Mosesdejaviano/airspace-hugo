@@ -59,8 +59,9 @@ service:
       of accessibility will benefit your child. They have access to their teachers.
   - icon: ion-medkit
     name: Successfully practicing COVID 19 safety guidelines
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: We rely on COVID-19 guidelines from reputable organizations such as UNICEF
+      and WHO, as well as health authorities. We keep up to date on the situation
+      and follow the advice of public health specialists.
   - icon: ion-headphone
     name: Logo Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
