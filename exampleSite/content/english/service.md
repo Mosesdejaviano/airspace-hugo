@@ -49,10 +49,7 @@ service:
     content: ''
   - icon: ion-ios-monitor-outline
     name: 'Open Enrollment for E-learners '
-    content: We make a learning environment for your youngsters. We set a timetable
-      for ourselves and stick to it. We limit the amount of distractions for your
-      children. We gave them lots of opportunities to exercise. We examine which elements
-      of accessibility will benefit your child. They have access to their teachers.
+    content: ''
   - icon: ion-medkit
     name: Successfully practicing COVID 19 safety guidelines
     content: 'We rely on COVID-19 guidelines from reputable organizations such as
