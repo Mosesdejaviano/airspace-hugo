@@ -18,7 +18,7 @@ about:
     dolore officia adipisci neque!
   image: images/company/company-group-pic.jpg
 featured_service:
-  enable: false
+  enable: true
   service_item:
   - name: Interface Design
     icon: ion-erlenmeyer-flask
