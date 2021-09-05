@@ -63,7 +63,7 @@ author = ""
 description = "IT TAKES A VILLAGE TO RAISE OUR CHILDREN!"
 image = "images/lvillagecenterlogo.png"
 logo = "images/lvillagecenterlogo.png"
-logo_width = "150px"
+logo_width = "110px"
 [params.contact]
 address_descriptors = true
 email = "villagehousedaycare95@gmail.com"
@@ -117,7 +117,7 @@ link = "plugins/shuffle/shuffle.min.js"
 attributes = "defer"
 link = "plugins/google-map/gmap.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
