@@ -56,10 +56,11 @@ service:
     content: We make a learning environment for your youngsters. We set a timetable
       for ourselves and stick to it. We limit the amount of distractions for your
       children. We gave them lots of opportunities to exercise.
-  - icon: ion-bug
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-briefcase
+    name: 'Successfully practicing COVID 19 safety guidelines '
+    content: We rely on COVID-19 guidelines from reputable organizations such as UNICEF
+      and WHO, as well as health authorities. We keep up to date on the situation
+      and follow the advice of public health specialists
   - icon: ion-headphone
     name: Logo Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
