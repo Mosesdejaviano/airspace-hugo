@@ -5,7 +5,7 @@ bg_image: images/feature-bg.jpg
 layout: about
 about:
   enable: true
-  image: images/company/about.jpg
+  image: images/villagehousefront2.png
   title: IT TAKES A VILLAGE TO RAISE OUR CHILDREN!
   content: |
     The activities are spread out around the classroom. Children work in small groups during center time, but they can also work independently.
