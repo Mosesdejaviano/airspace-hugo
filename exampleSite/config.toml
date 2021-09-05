@@ -65,9 +65,9 @@ image = "images/lvillagecenterlogo.png"
 logo = "images/lvillagecenterlogo.png"
 logo_width = "150px"
 [params.contact]
-address_descriptors = false
+address_descriptors = true
 email = "villagehousedaycare95@gmail.com"
-location = "**Themefisher**  \nNorth Main Street  \nBrooklyn, New South Wales  \nAustralia\n"
+location = "Village House Learning Center 9510 South Constance Avenue Chicago, Illinois 60617"
 phone = "773-824-6108"
 [params.contact.form]
 action = "#"
