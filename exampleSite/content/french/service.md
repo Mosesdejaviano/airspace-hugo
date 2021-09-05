@@ -61,10 +61,11 @@ service:
     content: We rely on COVID-19 guidelines from reputable organizations such as UNICEF
       and WHO, as well as health authorities. We keep up to date on the situation
       and follow the advice of public health specialists
-  - icon: ion-headphone
-    name: Logo Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-earth
+    name: Before/After School Programs!
+    content: Afterschool programs may help children develop socially, emotionally,
+      cognitively, and academically, as well as minimize hazardous behaviors, enhance
+      physical health, and provide a secure and supportive atmosphere.
   - icon: ion-leaf
     name: Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
