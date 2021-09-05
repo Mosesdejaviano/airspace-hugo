@@ -103,11 +103,11 @@ mission_vision:
 cta:
   enable: true
 menu:
+  main:
+    name: About
+    weight: 2
   footer:
     name: About
     weight: 1
-  main:
-    name: About
-    weight: 16
 
 ---

@@ -6,7 +6,7 @@ layout: contact
 menu:
   main:
     name: Contact
-    weight: 28
+    weight: 4
   footer:
     name: Contact
     weight: 2
