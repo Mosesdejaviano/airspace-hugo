@@ -24,7 +24,7 @@ about:
 portfolio:
   enable: true
   bg_image: images/villagecentermockup-min-compressed.jpg
-  title: 'Schedule your appointment today.             Call : 773-824-6108'
+  title: 'Schedule your appointment today.    Call : 773-824-6108'
   content: " "
   button:
     enable: false
