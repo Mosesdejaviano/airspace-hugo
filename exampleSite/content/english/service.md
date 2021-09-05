@@ -4,7 +4,7 @@ description: this is meta description
 bg_image: images/feature-bg.jpg
 layout: service
 about:
-  enable: true
+  enable: false
   title: Creative UX/UI Design Agency
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
     corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
