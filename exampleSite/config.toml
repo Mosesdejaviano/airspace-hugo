@@ -53,6 +53,58 @@ unsafe = true
 endLevel = 6
 ordered = false
 startLevel = 2
+[[menu.main]]
+name = "Kontakt"
+weight = 27
+[[menu.main]]
+name = "Häufige Fragen"
+parent = "Mehr"
+weight = 20
+[[menu.main]]
+name = "Projekt"
+weight = 19
+[[menu.main]]
+name = "Über uns"
+weight = 12
+[[menu.main]]
+name = "Preise"
+parent = "Mehr"
+weight = 11
+[[menu.main]]
+name = "Startseite"
+weight = 4
+[[menu.main]]
+name = "Dienstleistung"
+parent = "Mehr"
+weight = 3
+[[menu.main]]
+name = "Pagina iniziale"
+weight = 2
+[[menu.main]]
+name = "Servizio"
+parent = "Più"
+weight = 1
+[[menu.main]]
+name = "Progetto"
+weight = 17
+[[menu.main]]
+name = "Tariffazione"
+parent = "Più"
+weight = 9
+[[menu.main]]
+name = "Domande frequenti"
+parent = "Più"
+weight = 18
+[[menu.main]]
+name = "Contatta"
+weight = 26
+[[menu.main]]
+name = "Chi siamo"
+weight = 10
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+weight = 25
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
