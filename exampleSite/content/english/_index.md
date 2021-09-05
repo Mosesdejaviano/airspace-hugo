@@ -41,7 +41,7 @@ cta:
 '
   button:
     enable: true
-    label: Send us a message
+    label: Contact Us
     link: contact
 funfacts:
   enable: false
