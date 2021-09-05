@@ -47,7 +47,7 @@ service:
       and bus transit can assist minimize transportation''s environmental effect and,
       as a result, enhance students'' health. '
   - icon: ion-compass
-    name: Web Design
+    name: IDHS Child Care Assistance Program(CCAP) Accepted
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-image
