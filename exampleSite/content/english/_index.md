@@ -1,13 +1,14 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/villagehousefront1.png
   bg_overlay: true
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  title: IT TAKES A VILLAGE TO RAISE OUR CHILDREN!
+  content: 'ACCEPTING APPLICATIONS!!</br>REGISTER NOW!!</br>LIMITED SLOTS AVAILABLE!!
+
+'
   button:
-    enable: true
+    enable: false
     label: Discover Our Project
     link: project
 about:
@@ -61,16 +62,16 @@ funfacts:
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
-    count: '99'
+    count: "99"
   - icon: ion-ios-glasses-outline
     name: Article Written
-    count: '45'
+    count: "45"
   - icon: ion-ios-compose-outline
     name: Projects Completed
-    count: '125'
+    count: "125"
   - icon: ion-ios-timer-outline
     name: Combined Projects
-    count: '200'
+    count: "200"
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
@@ -90,9 +91,5 @@ funfacts:
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
-menu:
-  main:
-    name: Home
-    weight: 1
 
 ---
