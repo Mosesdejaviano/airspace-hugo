@@ -68,7 +68,7 @@ service:
       cognitively, and academically, as well as minimize hazardous behaviors, enhance
       physical health, and provide a secure and supportive atmosphere.
   - icon: ion-leaf
-    name: Development
+    name: Breakfast,Lunch and Snacks included
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-planet
