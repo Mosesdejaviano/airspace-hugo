@@ -4,7 +4,7 @@ disqusShortname = ""
 googleAnalytics = ""
 paginate = "11"
 summaryLength = "100  "
-theme = "airspace-hugo"
+theme = "airspace-hugo     "
 timeZone = "UTC"
 title = "Village House | Village House Learning Center"
 [languages.de]
