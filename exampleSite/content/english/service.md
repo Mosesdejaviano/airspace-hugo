@@ -61,8 +61,7 @@ service:
     content: ''
   - icon: ion-ios-people
     name: Family engagements events And More!!
-    content: Collaboration, cultural competency, and a focus on enhancing children's
-      learning characterize high-impact family and community involvement.
+    content: ''
 cta:
   enable: false
 
