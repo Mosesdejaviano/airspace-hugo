@@ -73,7 +73,7 @@ service:
       nutritional requirements. The National Nutrition Council's nutritional standards
       for schools are followed by school catering.
   - icon: ion-planet
-    name: Brand Identity
+    name: Family engagements events And More!!
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-earth
