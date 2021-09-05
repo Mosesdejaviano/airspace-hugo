@@ -58,9 +58,7 @@ service:
     content: ''
   - icon: ion-fork
     name: Breakfast,Lunch and Snacks included
-    content: The school meal is estimated to meet around one-third of a child's daily
-      nutritional requirements. The National Nutrition Council's nutritional standards
-      for schools are followed by school catering.
+    content: ''
   - icon: ion-ios-people
     name: Family engagements events And More!!
     content: Collaboration, cultural competency, and a focus on enhancing children's
