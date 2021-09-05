@@ -43,9 +43,8 @@ service:
   service_item:
   - icon: ion-model-s
     name: 'Transportation Provided   '
-    content: 'Transportation is provided for kids. Walking, bicycling, shared rides,
-      and bus transit can assist minimize transportation''s environmental effect and,
-      as a result, enhance students'' health. '
+    content: Walking, bicycling, shared rides, and bus transit can assist minimize
+      transportation's environmental effect.
   - icon: ion-ios-home
     name: IDHS Child Care Assistance Program(CCAP) Accepted
     content: We collaborate with the Illinois Department of Human Services (IDHS)
