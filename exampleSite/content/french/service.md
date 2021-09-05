@@ -51,10 +51,11 @@ service:
     content: We collaborate with the Illinois Department of Human Services (IDHS)
       Child Care Assistance Program (CCAP), which helps families locate and choose
       the finest child care for their children by providing information and resources.
-  - icon: ion-image
-    name: App Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-ios-monitor-outline
+    name: 'Open Enrollment for E-learners '
+    content: We make a learning environment for your youngsters. We set a timetable
+      for ourselves and stick to it. We limit the amount of distractions for your
+      children. We gave them lots of opportunities to exercise.
   - icon: ion-bug
     name: Start Up
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
