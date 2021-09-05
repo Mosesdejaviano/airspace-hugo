@@ -42,9 +42,10 @@ service:
     collaborative learning experiences guided by experienced and motivated instructors.
   service_item:
   - icon: ion-bus
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Transportation Provided
+    content: 'Transportation is provided for kids. Walking, bicycling, shared rides,
+      and bus transit can assist minimize transportation''s environmental effect and,
+      as a result, enhance students'' health. '
   - icon: ion-compass
     name: Web Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
