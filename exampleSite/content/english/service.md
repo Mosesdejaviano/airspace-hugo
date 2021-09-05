@@ -46,7 +46,7 @@ service:
     content: 'Transportation is provided for kids. Walking, bicycling, shared rides,
       and bus transit can assist minimize transportation''s environmental effect and,
       as a result, enhance students'' health. '
-  - icon: ion-compass
+  - icon: ion-ios-home
     name: IDHS Child Care Assistance Program(CCAP) Accepted
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
