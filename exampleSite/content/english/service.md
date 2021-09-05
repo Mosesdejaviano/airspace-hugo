@@ -52,9 +52,7 @@ service:
     content: ''
   - icon: ion-medkit
     name: Successfully practicing COVID 19 safety guidelines
-    content: 'We rely on COVID-19 guidelines from reputable organizations such as
-      UNICEF and WHO, as well as health authorities. We keep up to date on the situation
-      and follow the advice of public health specialists.  '
+    content: ''
   - icon: ion-ios-americanfootball
     name: Before/After School Programs
     content: Afterschool programs may help children develop socially, emotionally,
