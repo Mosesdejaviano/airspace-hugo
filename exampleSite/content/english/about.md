@@ -47,7 +47,7 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
 testimonial:
-  enable: true
+  enable: false
 mission_vision:
   enable: true
   tabs:
