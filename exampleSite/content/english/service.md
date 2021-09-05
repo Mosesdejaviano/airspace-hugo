@@ -67,10 +67,11 @@ service:
     content: Afterschool programs may help children develop socially, emotionally,
       cognitively, and academically, as well as minimize hazardous behaviors, enhance
       physical health, and provide a secure and supportive atmosphere.
-  - icon: ion-leaf
+  - icon: ion-fork
     name: Breakfast,Lunch and Snacks included
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: The school meal is estimated to meet around one-third of a child's daily
+      nutritional requirements. The National Nutrition Council's nutritional standards
+      for schools are followed by school catering.
   - icon: ion-planet
     name: Brand Identity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
