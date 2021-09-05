@@ -46,10 +46,11 @@ service:
     content: 'Transportation is provided for kids. Walking, bicycling, shared rides,
       and bus transit can assist minimize transportation''s environmental effect and,
       as a result, enhance students'' health. '
-  - icon: ion-compass
-    name: Web Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-android-home
+    name: IDHS Child Care Assistance Program(CCAP) Accepted
+    content: We collaborate with the Illinois Department of Human Services (IDHS)
+      Child Care Assistance Program (CCAP), which helps families locate and choose
+      the finest child care for their children by providing information and resources.
   - icon: ion-image
     name: App Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
