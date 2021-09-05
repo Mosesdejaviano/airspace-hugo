@@ -41,7 +41,7 @@ service:
   description: We prepare children for success in elementary school and beyond via
     collaborative learning experiences guided by experienced and motivated instructors.
   service_item:
-  - icon: ion-coffee
+  - icon: ion-bus
     name: Branding
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
