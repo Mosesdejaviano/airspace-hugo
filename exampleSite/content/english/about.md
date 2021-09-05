@@ -19,7 +19,7 @@ about:
   description: We prepare children for success in elementary school and beyond via
     collaborative learning experiences guided by experienced and motivated instructors.
 features:
-  enable: true
+  enable: false
   title: We are indepented Design & Development Agency
   feature_item:
   - icon: ion-ios-color-filter-outline
