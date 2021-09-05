@@ -66,9 +66,9 @@ logo = "images/lvillagecenterlogo.png"
 logo_width = "150px"
 [params.contact]
 address_descriptors = false
-email = "demo@email.com"
+email = "villagehousedaycare95@gmail.com"
 location = "**Themefisher**  \nNorth Main Street  \nBrooklyn, New South Wales  \nAustralia\n"
-phone = "0124857985320"
+phone = "773-824-6108"
 [params.contact.form]
 action = "#"
 enable = true
