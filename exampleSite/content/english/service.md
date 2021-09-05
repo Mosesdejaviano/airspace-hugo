@@ -57,7 +57,7 @@ service:
       for ourselves and stick to it. We limit the amount of distractions for your
       children. We gave them lots of opportunities to exercise. We examine which elements
       of accessibility will benefit your child. They have access to their teachers.
-  - icon: ion-bug
+  - icon: ion-medkit
     name: Successfully practicing COVID 19 safety guidelines
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
