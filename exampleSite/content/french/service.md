@@ -43,8 +43,9 @@ service:
   service_item:
   - icon: ion-model-s
     name: Transportation Provided
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: 'Transportation is provided for kids. Walking, bicycling, shared rides,
+      and bus transit can assist minimize transportation''s environmental effect and,
+      as a result, enhance students'' health. '
   - icon: ion-compass
     name: Web Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
